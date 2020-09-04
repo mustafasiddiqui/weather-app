@@ -1,0 +1,1 @@
+A simple weather app that searches by city
